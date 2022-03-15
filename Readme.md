@@ -1,4 +1,4 @@
-The (preview)[https://fbw-wd22-e01-rockstars.github.io/uib-layout-grid-blogger-15march-Adanurk/] of my solution.
+The [preview](https://fbw-wd22-e01-rockstars.github.io/uib-layout-grid-blogger-15march-Adanurk/) of my solution.
 
 # Grid Blogger
 
