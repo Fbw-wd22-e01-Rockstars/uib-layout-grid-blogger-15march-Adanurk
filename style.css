@@ -87,3 +87,8 @@ footer{
     background-color: lightgray;
     font-weight: bold;
 }
+
+p{
+    overflow: auto;
+    height: 30%;
+}
