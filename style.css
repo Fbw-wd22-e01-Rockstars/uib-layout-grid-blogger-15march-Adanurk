@@ -13,10 +13,12 @@ article img{
 
 div{
     padding: 8px;
+    background-color: white;
 }
 
 article{
     padding: 15px;
+    background-color: white;
 }
 
 img, p, h3, h5, h4{
@@ -24,6 +26,7 @@ img, p, h3, h5, h4{
 }
 
 .container{
+    background-color: #F1F1F1;
     margin: 1rem;
     display: grid;
     grid-template-columns: 1fr 300px;
@@ -44,6 +47,7 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: white;
 }
 
 .article1{
